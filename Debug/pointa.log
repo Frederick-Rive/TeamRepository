@@ -1,0 +1,4 @@
+﻿  pointa.cpp
+C:\Users\270121618\OneDrive - UP Education\Desktop\Coding Adventures\C++\pointa\pointa.cpp(8,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\270121618\OneDrive - UP Education\Desktop\Coding Adventures\C++\pointa\pointa.cpp(51,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pointa.vcxproj -> C:\Users\270121618\OneDrive - UP Education\Desktop\Coding Adventures\C++\pointa\Debug\pointa.exe
