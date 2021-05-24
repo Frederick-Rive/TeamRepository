@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <ctime>
-
+//this one sucks
 int BadSort(std::vector<short> vec)
 {
     int rtrn = 0;
@@ -23,7 +23,7 @@ int BadSort(std::vector<short> vec)
 
     return rtrn;
 }
-
+//this ones cool
 int GoodSort(short* ptr, int length)
 {
     int rtrn = 0;
